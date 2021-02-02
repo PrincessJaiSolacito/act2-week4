@@ -1,0 +1,58 @@
+<html>
+    <head>
+        <title> TABLE </title>
+        <style type="text/css">
+			table.coll 
+			{border-collapse: collapse}
+			table.sep
+			{border-collapse: separate}
+	</style>
+	</head>
+	<body bgcolor="#DDA0DD">
+        <p align="center">
+	<table class="coll" border="5" bordercolor="#2F4F4F">
+        <tr>
+            <td bgcolor="#ADFF2F"></td>         
+            <td bgcolor="#00FFFF">Quantity</td>       
+            <td bgcolor="#8FBC8F">Price Each</td>         
+            <td bgcolor="#1E90FF">Total</td>      
+            <td bgcolor="#FFFACD">Final</td>
+        </tr>        
+        <tr>
+            <td bgcolor="#ADFF2F">Flake</td>         
+            <td bgcolor="#00FFFF">1</td>       
+            <td bgcolor="#8FBC8F">30.25</td>         
+            <td bgcolor="#1E90FF">30.25</td>      
+            <td bgcolor="#FFFACD"></td>
+        </tr>        
+        <tr>
+            <td bgcolor="#ADFF2F">Crunchie</td>         
+            <td bgcolor="#00FFFF"></td>       
+            <td bgcolor="#8FBC8F">26.50</td>         
+            <td bgcolor="#1E90FF"></td>      
+            <td bgcolor="#FFFACD"></td>
+        </tr> 
+        <tr>
+            <td bgcolor="#ADFF2F">Mars Bar</td>         
+            <td bgcolor="#00FFFF">2</td>       
+            <td bgcolor="#8FBC8F">31.75</td>         
+            <td bgcolor="#1E90FF">63.50</td>      
+            <td bgcolor="#FFFACD"></td>
+        </tr> 
+        <tr>
+            <td bgcolor="#ADFF2F">Aero</td>         
+            <td bgcolor="#00FFFF">6</td>       
+            <td bgcolor="#8FBC8F"></td>         
+            <td bgcolor="#1E90FF">173.40</td>      
+            <td bgcolor="#FFFACD"></td>
+        </tr> 
+        <tr>
+            <td bgcolor="#ADFF2F">TotalConsumed</td>         
+            <td bgcolor="#00FFFF">12</td>       
+            <td bgcolor="#8FBC8F">117.40</td>         
+            <td bgcolor="#1E90FF">346.65</td>      
+            <td bgcolor="#FFFACD"></td>
+        </tr> 
+</table>
+</body>
+</html>
